@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>gedankenspiel</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+  </style>
+  <script
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"
+  type="text/javascript"></script>
+</head>
+<body>
+<h1 id="gedankenspiel-zu-spät-in-die-schule-kommen">Gedankenspiel – Zu
+spät in die Schule kommen?</h1>
+<p>Wir leben auf dem <strong>Mars</strong> und fahren im
+<strong>September 2026</strong> pünktlich <strong>20 min</strong> vor
+Unterrichtsbeginn mit <strong>50 % der Lichtgeschwindigkeit</strong>
+los. Kommen wir zu spät oder pünktlich?</p>
+<p>Vorraussetzumg: beide haben eine Uhr die gleich laufen vor dem
+losfahren</p>
+<hr />
+<h2 id="gegebene-größen">Gegebene Größen</h2>
+<ul>
+<li><p><strong>Strecke</strong><br />
+(s = <span class="math inline">\(200.000.000 km = 2 times 10^8\
+\text{km} = 2 \times 10^{11}\ \text{m}\)</span>)</p></li>
+<li><p><strong>Geschwindigkeit</strong><br />
+(<span class="math inline">\(v = 0.5c = 149\,896\,229\
+\text{m/s}\)</span>)</p></li>
+<li><p><strong>Lorentz-Faktor</strong> bei (<span
+class="math inline">\(0{,}5c\)</span>)<br />
+(<span class="math inline">\(\gamma \approx 1.1547\)</span>)</p></li>
+</ul>
+<h3 id="berechnung-des-lorentz-faktors-bei-05c">Berechnung des
+Lorentz-Faktors bei <span class="math inline">\((0{,}5c)\)</span></h3>
+<p>Der Lorentz-Faktor ist definiert durch</p>
+<p><span class="math display">\[
+\gamma \;=\; \frac{1}{\sqrt{1 - \dfrac{v^{2}}{c^{2}}}}
+\]</span></p>
+<p>Setze (<span class="math inline">\(v = \frac{c}{2}\)</span>):</p>
+<p><span class="math display">\[
+\gamma \;=\; \frac{1}{\sqrt{1 - (0{,}5)^2}}
+           \;=\; \frac{1}{\sqrt{1 - 0,25}}
+           \;=\; \frac{1}{\sqrt{0,75}}
+\]</span></p>
+<p><span class="math display">\[
+\sqrt{0,75}
+  \;=\; \sqrt{\tfrac{3}{4}}
+  \;=\; \frac{\sqrt{3}}{2}
+  \;\approx\; 0.8660254
+\]</span></p>
+<p><span class="math display">\[
+\gamma
+  \;=\; \frac{1}{0,8660254}
+  \;\approx\; 1.1547005
+\]</span></p>
+<p><span class="math display">\[
+\boxed{\gamma \approx 1.1547}
+\]</span></p>
+<hr />
+<h2 id="zeit-im-erdreferenzsystem-relativ-zum-lehrer">1 · Zeit im
+Erdreferenzsystem (Relativ zum Lehrer)</h2>
+<p><span class="math display">\[
+t \;=\; \frac{s}{v}
+= \frac{2 \times 10^{11}\,\text{m}}{149\,896\,229\,\text{m/s}}
+\approx 1334{,}8\ \text{s}
+\approx 22{,}25\ \text{min}
+\]</span></p>
+<hr />
+<h2 id="zeit-im-ruhesystem-des-reisenden-relativ-zum-schüler">2 · Zeit
+im Ruhesystem des Reisenden (Relativ zum Schüler)</h2>
+<p><span class="math display">\[
+t_{\text{Reisender}}
+= \frac{t_{\text{Erde}}}{\gamma}
+= \frac{1334{,}8\ \text{s}}{1{,}1547}
+\approx 1155{,}8\ \text{s}
+\approx 19{,}26\ \text{min}
+\]</span></p>
+<hr />
+<h2 id="zusammenfassung">Zusammenfassung</h2>
+<table>
+<thead>
+<tr>
+<th>Perspektive</th>
+<th>Zeit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Beobachter (Erde)</td>
+<td><strong>22 min 15 s</strong></td>
+</tr>
+<tr>
+<td>Reisender</td>
+<td><strong>19 min 16 s</strong></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>Bei einer Entfernung von <strong>200 Millionen Kilometern</strong>
+(typische Erde-Mars-Opposition) vergeht für den Reisenden rund <strong>3
+Minuten weniger</strong> als für einen ruhenden Beobachter –- dank der
+Zeitdilatation bei (<span class="math inline">\(0.5c\)</span>).</p>
+</blockquote>
+<h2 id="fazit-wer-hat-recht">Fazit – Wer hat recht?</h2>
+<table>
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 42%" />
+<col style="width: 39%" />
+</colgroup>
+<thead>
+<tr>
+<th>Streitpunkt</th>
+<th>Deine Sicht (Raumschiff-Uhr)</th>
+<th>Lehrersicht (Schulglocke)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Abfahrtszeit</td>
+<td>20 min vor Unterricht</td>
+<td>20 min vor Unterricht</td>
+</tr>
+<tr>
+<td>Reiszeit</td>
+<td>19 min 16 s</td>
+<td>22 min 15 s</td>
+</tr>
+<tr>
+<td>Ankunftszeit</td>
+<td><strong>34 s vor</strong> Beginn</td>
+<td><strong>2 min 15 s nach</strong> Beginn</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>Physikalisch haben beide Seiten recht – praktisch zählt aber wer am
+längeren Ast sitzt.<br />
+<strong>Kurz: Der Lehrer gewinnt … außer die Schulordnung wird erweitert
+um ein Kapitel zur speziellen Relativitätstheorie. :)</strong></p>
+</blockquote>
+</body>
+</html>
